@@ -53,28 +53,28 @@ body
 
 #title img
 {
-    content: url('../images/cowboydark.png');
+    content: url('../images/Fintastic.png');
 }
 
-#cowboyContacts
+#fintasticFriends
 {
-    content: url('../images/cowboydark.png');
+    content: url('../images/Fintastic.png');
 }
 
-#rl
+/* #rl
 {
     content: url('../images/revolverdarkleft.png');
-}
+} */
 
-#wanted
+#hooked
 {
-    content: url('../images/wanteddark.png');
+    content: url('../images/Hookeddark.png');
 }
 
-#rr
+/* #rr
 {
     content: url('../images/revolverdarkright.png');
-}
+} */
 
 .input-group
 {
