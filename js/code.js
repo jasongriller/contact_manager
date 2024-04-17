@@ -207,7 +207,7 @@ function readCookie()
 	}
 	else
 	{
-		document.getElementById("userName").innerHTML = "Howdy, " + firstName +"!";
+		document.getElementById("userName").innerHTML = "Water You Up To, " + firstName +"!";
 	}
 
 }
