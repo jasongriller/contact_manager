@@ -1,7 +1,7 @@
 body
 {
     background-color: #707070;
-    background-image: url('../images/cowboyInterior.jpg');
+    background-image: url('../images/ocean.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -47,7 +47,7 @@ body
 
 #aboutTitle img
 {
-    content: url('../images/meettheteamdark.png');
+    content: url('../images/meetTheTeam.png');
     
 }
 
@@ -208,7 +208,7 @@ body
 }
 
 #topbar-icon img{
-    content: url('../images/cowboydark.png');
+    content: url('../images/ocean.png');
 }
 
 tr:hover {background-color: rgb(72, 75, 70);}
